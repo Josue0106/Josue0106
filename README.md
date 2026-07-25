@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hola, soy Josué 
 
-<!--
-**Josue0106/Josue0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Computación en el **Instituto Tecnológico de Costa Rica (TEC)**, enfocado en construir proyectos completos: desde la base de datos hasta la interfaz que usa la gente.
 
-Here are some ideas to get you started:
+-  Ingeniería en Computación @ TEC
+-  Actualmente construyendo **Myterapii**, una plataforma web para una clínica de fisioterapia (reservas, gestión y presencia digital)
+-  Me interesa el desarrollo full-stack y aprender buenas prácticas de arquitectura de software
+-  Costa Rica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Tecnologías
+
+**Lenguajes:** Java · Python · TypeScript · HTML/CSS
+
+**Frameworks & herramientas:** Next.js · Supabase · Vercel · Git/GitHub
+
+---
+
+###  Proyecto destacado
+
+**[Myterapii — Plataforma web para clínica digital](https://github.com/Josue0106/Pagina-web-Myterapii)**
+Sitio web funcional para una clínica de fisioterapia, con esquema de base de datos, automatización de reservas y documentación operativa.
+ [Ver demo en vivo](https://project-ogb8e.vercel.app)
+
+---
+
+###  Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-salvador-montero-arguedas-235885424)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jomontero0101@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.josuesalvador._)
