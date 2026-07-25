@@ -11,7 +11,7 @@ Estudiante de Ingeniería en Computación en el **Instituto Tecnológico de Cost
 
 ###  Tecnologías
 
-**Lenguajes:** Java · Python · TypeScript · HTML/CSS
+**Lenguajes:** Python · TypeScript · HTML/CSS · C++ · C
 
 **Frameworks & herramientas:** Next.js · Supabase · Vercel · Git/GitHub
 
