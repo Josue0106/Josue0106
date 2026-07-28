@@ -19,9 +19,9 @@ Estudiante de Ingeniería en Computación en el **Instituto Tecnológico de Cost
 
 ###  Proyecto destacado
 
-**[Myterapii — Plataforma web para clínica digital](https://github.com/Josue0106/Pagina-web-Myterapii)**
+**[Myterapii — Plataforma web para clínica digital](https://github.com/Josue0106/Proyecto-Pagina-web-Myterapii)**
 Sitio web funcional para una clínica de fisioterapia, con esquema de base de datos, automatización de reservas y documentación operativa.
- [Ver demo en vivo](https://project-ogb8e.vercel.app)
+ [Ver demo en vivo](https://www.myterapii.com)
 
 ---
 
