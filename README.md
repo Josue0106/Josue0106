@@ -1,6 +1,6 @@
 ### Hola, soy Josué 
 
-Estudiante de Ingeniería en Computación en el **Instituto Tecnológico de Costa Rica (TEC)**, actualmente cursando mi penultimo semestre de bachillerato, enfocado en construir proyectos completos: desde la base de datos hasta la interfaz que usa la gente.
+Estudiante de Ingeniería en Computación en el **Instituto Tecnológico de Costa Rica (TEC)**, actualmente cursando mi antepenultimo semestre de bachillerato, enfocado en construir proyectos completos: desde la base de datos hasta la interfaz que usa la gente.
 
 -  Ingeniería en Computación @ TEC
 -  Actualmente construyendo **Myterapii**, una plataforma web para una clínica de fisioterapia (reservas, gestión y presencia digital)
